@@ -13,3 +13,5 @@ References:
 4) http://www.cgisecurity.com/owasp/html/ch07s04.html
 
 5) http://chimera.labs.oreilly.com/books/1230000000545/ch04.html#TLS_HANDSHAKE
+
+6) https://publib.boulder.ibm.com/tividd/td/TRM/GC32-1323-00/en_US/HTML/admin231.htm
